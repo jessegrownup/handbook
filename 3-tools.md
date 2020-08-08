@@ -35,6 +35,6 @@ Here's a list of the tools and services that we `currently` use as a business:
 31. Firebase`***` — Cloud, DB, Store, Auth... and more.
 32. Stream`***` — API / SDK
 33. Slack`***` — Temporary communication tool as we roll our own.
-
+34. Printful'***' - Way to make/distribute YEN swag 
 
 Where `***` represents tools that team members need access to.
